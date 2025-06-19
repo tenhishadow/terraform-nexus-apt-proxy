@@ -5,4 +5,4 @@ Terraform module to provision and configure APT proxy repositories in Sonatype N
 
 ## Basic example
 
-[here](examples/basic/REAME.md)
+[here](examples/basic/README.md)
